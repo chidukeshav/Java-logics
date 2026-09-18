@@ -8,6 +8,7 @@ public class firstoccu {
 				System.out.println("index -"+i);
 				return;
 			}
+			//heloo
 		}
 		System.out.println("value not found");
 	}
